@@ -1,0 +1,56 @@
+.offer_body{
+   padding-top: 114px;
+   display: flex;
+}
+.offer_flex{
+   padding-top: 15px;
+   display: flex;
+   flex-wrap: wrap;
+   /* justify-content: end; */
+}
+.offer_card{
+   flex: 1 1 50%;
+   margin-bottom: 49px;
+}
+.title{
+   font-family: 'Open Sans',sans-serif;
+   font-size: 42px;
+   line-height: 55px;
+   font-weight: 700;
+   text-transform: uppercase;
+   letter-spacing: 0.01em;
+   color: rgba(0,0,0,.8);
+   margin-bottom: 50px;
+}
+.discript{
+   font-family: 'Open Sans';
+   font-size: 16px;
+   line-height: 28px;
+   font-weight: 400;
+   color: #000000;
+   margin-bottom: 58px;
+}
+.offer_card-body {
+   max-width: 315px;
+   /* padding-left: 50px; */
+}
+.offer_card-icon {
+   margin-bottom: 30px;
+}
+
+.offer_card-title {
+   margin-bottom: 17px;
+   font-family: 'Open Sans',sans-serif;
+   font-size: 24px;
+   line-height: 1.2;
+   font-weight: 600;
+   letter-spacing: 0.01em;
+   color: rgba(0,0,0,.7);
+}
+.offer_card-discript {
+   font-family: 'Open Sans',sans-serif;
+   font-size: 16px;
+   line-height: 28px;
+   font-weight: 400;
+   color: rgba(0,0,0,.7);
+}

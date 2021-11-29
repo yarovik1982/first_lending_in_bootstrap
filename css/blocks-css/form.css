@@ -1,0 +1,53 @@
+.form {
+   padding: 140px 0;
+   background-color: #f5f0dd;
+}
+.form_title {
+   font-family: 'Open Sans',sans-serif;
+   font-size: 42px;
+   line-height: 30px;
+   font-weight: 700;
+   letter-spacing: 0.025em;
+   color: rgba(255,255,255,.8);
+   text-align: center;
+   margin-bottom: 31px;
+}
+.form_text {
+   opacity: 0.8;
+   font-family: 'Open Sans',sans-serif;
+   font-size: 16px;
+   line-height: 28px;
+   font-weight: 400;
+   color: #ffffff;
+   text-align: center;
+   margin-bottom: 62px;
+}
+.form_form {
+   height: 79px;
+}
+.form_inp {
+   width: 50%;
+   height: 79px;
+   background-color: #ffffff;
+   opacity: 0.7;
+font-family: 'Open Sans';
+font-size: 16px;
+line-height: 24px;
+font-weight: 400;
+letter-spacing: 0.025em;
+color: #2c2c2c;
+padding-left: 36px;
+margin-right: 22px;
+}
+.form_submit {
+   width: 214px;
+   height: 79px;
+   background-color: #ff2d2d;
+   font-family: 'Open Sans',sans-serif;
+   font-size: 18px;
+   line-height: 34px;
+   font-weight: 700;
+   text-transform: uppercase;
+   letter-spacing: 0.025em;
+   color: #ffffff;
+}
